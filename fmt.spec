@@ -4,7 +4,7 @@
 #
 Name     : fmt
 Version  : 8.1.1
-Release  : 9
+Release  : 10
 URL      : https://github.com/fmtlib/fmt/archive/8.1.1/fmt-8.1.1.tar.gz
 Source0  : https://github.com/fmtlib/fmt/archive/8.1.1/fmt-8.1.1.tar.gz
 Summary  : A modern formatting library
