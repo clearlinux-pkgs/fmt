@@ -1,5 +1,5 @@
 PKG_NAME := fmt
-URL = https://github.com/fmtlib/fmt/archive/8.1.1/fmt-8.1.1.tar.gz
+URL = https://github.com/fmtlib/fmt/archive/11.0.0/fmt-11.0.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
